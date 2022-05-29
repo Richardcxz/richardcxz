@@ -3,3 +3,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=richardcxz&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richardcxz&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richardcxz&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cuipihhrzeetswthmxsa5ry&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
