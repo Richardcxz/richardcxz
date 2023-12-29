@@ -6,5 +6,3 @@
 ![richardcxz's Stats](https://github-readme-stats.vercel.app/api?username=richardcxz&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![richardcxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=richardcxz&theme=gotham&hide_border=true)
 ![richardcxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardcxz&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21cuipihhrzeetswthmxsa5ry&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
